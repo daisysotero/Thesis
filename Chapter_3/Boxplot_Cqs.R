@@ -33,6 +33,10 @@ ggplot(box, aes(x=Detector, y=Cq,fill=city)) +
   labs(x="Candidates genes", y = "Cq values")+
   theme_minimal()
 
+#Dataset:
+
+
+
 #########BOXPLOT BY PLANT STRUCTURE########
 
 getwd() 
