@@ -1,0 +1,61 @@
+Treatment	number	type_stress	Group	control	treated	fold_peak (raw)	fold_log2
+temperature	1	Abiotic stress	Leaves 50°C	82.9	78.2	0.943305187	-0.084203494
+temperature	2	Abiotic stress	Roots 50°C	70.8	74.8	1.056497175	0.07928891
+UV	3	Abiotic stress	Leaves 24h	73.6	54.1	0.735054348	-0.444077172
+UV	4	Abiotic stress	Roots 24h	80.5	66	0.819875776	-0.286522759
+UV	5	Abiotic stress	Leaves 48h	73.5	76.5	1.040816327	0.057715498
+UV	6	Abiotic stress	Roots 48h	80.5	66	0.819875776	-0.286522759
+Water Stress	7	Abiotic stress	Leaves T1	82	84	1.024390244	0.034765418
+Water Stress	8	Abiotic stress	Leaves T2	75.7	78	1.030383091	0.043180824
+Water Stress	9	Abiotic stress	Leaves T3	82.5	74.6	0.904242424	-0.145218489
+Water Stress	10	Abiotic stress	Roots T1	79.9	80.9	1.012515645	0.0179442
+Water Stress	11	Abiotic stress	Roots T2	79.6	81.8	1.027638191	0.039332412
+Water Stress	12	Abiotic stress	Roots T3	74.1	81.9	1.105263158	0.144389909
+DM	13	Abiotic stress	Leaves 2 days 1/4  	72.6	81.3	1.119834711	0.163285804
+DM	14	Abiotic stress	Leaves 2 days 3/4	72.6	77.1	1.061983471	0.086761312
+DM	15	Abiotic stress	Roots 2 days 1/4  	77	79	1.025974026	0.036994207
+DM	16	Abiotic stress	Roots 2 days 3/4  	77	84.4	1.096103896	0.132384553
+DM	17	Abiotic stress	Leaves 4 days 1/4  	73.1	78.2	1.069767442	0.097297201
+DM	18	Abiotic stress	Leaves 4 days 3/4	73.1	76.9	1.051983584	0.073112192
+DM	19	Abiotic stress	Roots 4 days 1/4  	76.125	81.7	1.073234811	0.101965755
+DM	20	Abiotic stress	Roots 4 days 3/4  	76.125	82.75	1.087027915	0.120388989
+NaCl	21	Abiotic stress	Leaves 2 days 0,25M	72.6	77.25	1.064049587	0.089565385
+NaCl	22	Abiotic stress	Leaves 2 days 0,50M	72.6	79.2	1.090909091	0.125530882
+NaCl	23	Abiotic stress	Roots 2 days 0,25M	77	81	1.051948052	0.073063462
+NaCl	24	Abiotic stress	Roots 2 days 0,50M	77	80.3	1.042857143	0.060541542
+NaCl	25	Abiotic stress	Leaves 4 days 0,25M	73.1	76.9	1.051983584	0.073112192
+NaCl	26	Abiotic stress	Leaves 4 days 0,50M	73.1	74.8	1.023255814	0.033166864
+NaCl	27	Abiotic stress	Roots 4 days 0,25M	76.125	78.1	1.025944171	0.036952225
+NaCl	28	Abiotic stress	Roots 4 days 0,50M	76.125	77.4	1.016748768	0.023963243
+ABA	29	Biotic stress	Leaves 2 days 25mg/mL 	72.6	80.8	1.112947658	0.154385745
+ABA	30	Biotic stress	Leaves 2 days 50mg/mL 	72.6	80.5	1.108815427	0.149019235
+ABA	31	Biotic stress	Roots 2 days 25mg/mL 	77	78.7	1.022077922	0.03150519
+ABA	32	Biotic stress	Roots 2 days 50mg/mL 	77	77	1	0
+ABA	33	Biotic stress	Leaves 4 days 25mg/mL 	73.1	80.2	1.097127223	0.133730831
+ABA	34	Biotic stress	Leaves 4 days  50mg/mL 	73.1	77.1	1.054719562	0.076859454
+ABA	35	Biotic stress	Roots 4 days 25mg/mL 	76.125	79.6	1.045648604	0.064398108
+ABA	36	Biotic stress	Roots 4 days 50mg/mL 	76.125	83.1	1.091625616	0.126478154
+MeJA	37	Biotic stress	Leaves 2 days 40 uM	79.5	80.6	1.013836478	0.019824978
+MeJA	38	Biotic stress	Leaves 2 days 100 uM 	79.5	83.6	1.051572327	0.072548082
+MeJA	39	Biotic stress	Roots 2 days 40 uM	83.1	87.2	1.049338147	0.069479658
+MeJA	40	Biotic stress	Roots 2 days 100 uM 	83.1	87.9	1.057761733	0.081014688
+MeJA	41	Biotic stress	Leaves 4 days 40 uM	73.9	79.3	1.073071719	0.101746502
+MeJA	42	Biotic stress	Leaves 4 days 100 uM 	73.9	83.8	1.133964817	0.18137588
+MeJA	43	Biotic stress	Roots 4 days 40 uM	85.7	86.5	1.009334889	0.013404928
+MeJA	44	Biotic stress	Roots 4 days 100 uM 	85.7	86.2	1.005834306	0.008392665
+SNP	45	Biotic stress	Leaves 2 days 100 uM	79.5	82.4	1.036477987	0.051689477
+SNP	46	Biotic stress	Leaves 2 days 200 uM 	79.5	84.6	1.064150943	0.089702803
+SNP	47	Biotic stress	Roots 2 days 100 uM	83.1	90.125	1.084536703	0.117078877
+SNP	48	Biotic stress	Roots 2 days 200 uM 	83.1	84.4	1.015643803	0.022394522
+SNP	49	Biotic stress	Leaves 4 days 100 uM	73.9	89.2	1.207036536	0.271469346
+SNP	50	Biotic stress	Leaves 4 days 200 uM 	73.9	87.4	1.182679296	0.242058915
+SNP	51	Biotic stress	Roots 4 days 100 uM	85.7	80	0.933488915	-0.099295204
+SNP	52	Biotic stress	Roots 4 days 200 uM 	85.7	83.4	0.973162194	-0.039247821
+AS	53	Biotic stress	Leaves 2 days 1mM 	79.5	88.9	1.118238994	0.161228559
+AS	54	Biotic stress	Leaves 2 days 2mM 	79.5	82.7	1.040251572	0.056932469
+AS	55	Biotic stress	Roots 2 days 1mM 	83.1	87.2	1.049338147	0.069479658
+AS	56	Biotic stress	Roots 2 days 2mM 	83.1	86	1.034897714	0.049488183
+AS	57	Biotic stress	Leaves 4 days 1mM 	73.9	79	1.069012179	0.096278289
+AS	58	Biotic stress	Leaves 4 days 2mM 	73.9	79	1.069012179	0.096278289
+AS	59	Biotic stress	Roots 4 days 1mM 	85.7	82.8	0.966161027	-0.049664437
+AS	60	Biotic stress	Roots 4 days 2mM 	85.7	86.3	1.007001167	0.010065355
