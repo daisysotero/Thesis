@@ -1,0 +1,17 @@
+AUTHOR=Chacon Daisy Sotero, Santos Marlon Dias Mariano, Bonilauri Bernardo, Vilasboa Johnatan, da Costa Cibele Tesser, da Silva Ivanice Bezerra, Torres Taffarel de Melo, de Araújo Thiago Ferreira, Roque Alan de Araújo, Pilon Alan Cesar, Selegatto Denise Medeiros, Freire Rafael Teixeira, Reginaldo Fernanda Priscila Santos, Voigt Eduardo Luiz, Zuanazzi José Angelo Silveira, Scortecci Kátia Castanho, Cavalheiro Alberto José, Lopes Norberto Peporine, Ferreira Leandro De Santis, Santos Leandro Vieira dos, Fontes Wagner, Sousa Marcelo Valle de, Carvalho Paulo Costa, Fett-Neto Arthur Germano, Giordani Raquel Brandt
+	 
+TITLE=Non-target molecular network and putative genes of flavonoid biosynthesis in Erythrina velutina Willd., a Brazilian semiarid native woody plant  
+	
+JOURNAL=Frontiers in Plant Science     
+	
+VOLUME=13      
+	
+YEAR=2022   
+		
+URL=https://www.frontiersin.org/articles/10.3389/fpls.2022.947558     
+	  
+DOI=10.3389/fpls.2022.947558    
+	
+ISSN=1664-462X   
+
+ABSTRACT=Erythrina velutina is a Brazilian native tree of the Caatinga (a unique semiarid biome). It is widely used in traditional medicine showing anti-inflammatory and central nervous system modulating activities. The species is a rich source of specialized metabolites, mostly alkaloids and flavonoids. To date, genomic information, biosynthesis, and regulation of flavonoids remain unknown in this woody plant. As part of a larger ongoing research goal to better understand specialized metabolism in plants inhabiting the harsh conditions of the Caatinga, the present study focused on this important class of bioactive phenolics. Leaves and seeds of plants growing in their natural habitat had their metabolic and proteomic profiles analyzed and integrated with transcriptome data. As a result, 96 metabolites (including 43 flavonoids) were annotated. Transcripts of the flavonoid pathway totaled 27, of which EvCHI, EvCHR, EvCHS, EvCYP75A and EvCYP75B1 were identified as putative main targets for modulating the accumulation of these metabolites. The highest correspondence of mRNA vs. protein was observed in the differentially expressed transcripts. In addition, 394 candidate transcripts encoding for transcription factors distributed among the bHLH, ERF, and MYB families were annotated. Based on interaction network analyses, several putative genes of the flavonoid pathway and transcription factors were related, particularly TFs of the MYB family. Expression patterns of transcripts involved in flavonoid biosynthesis and those involved in responses to biotic and abiotic stresses were discussed in detail. Overall, these findings provide a base for the understanding of molecular and metabolic responses in this medicinally important species. Moreover, the identification of key regulatory targets for future studies aiming at bioactive metabolite production will be facilitated.
