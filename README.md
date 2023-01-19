@@ -1,6 +1,6 @@
 # Thesis
 
-Scripts referring to data analysis of my thesis, entitled "INTEGRATION OF MOLECULAR AND CHEMICAL DATA FOR ANALYSIS OF BIOSYNTHESIS AND ALKALOID FLOW IN Erythrina velutina Willd.", subdivided into four chapters.
+Scripts referring to data analysis of my thesis, entitled "INTEGRATION OF MOLECULAR AND CHEMICAL DATA FOR ANALYSIS OF BIOSYNTHESIS AND ALKALOIDS FLOW IN Erythrina velutina Willd.", subdivided into four chapters.
 
 #Chapter 1
 
