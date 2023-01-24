@@ -148,8 +148,3 @@ box()
 abline(h = seq(0.2, 1.2, by = 0.2), lty = 2, lwd = 1, col = "grey")
 legend("topright", legend = c("SA","SJ","LA","LJ"),
        fill = mypalette)
-
-
-
-
-
