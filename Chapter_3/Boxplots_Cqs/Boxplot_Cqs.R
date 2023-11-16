@@ -40,3 +40,5 @@ ggplot(box, aes(x=Detector, y=Cq,fill=organ)) +
   scale_fill_brewer(palette="Dark2")+
   theme_minimal()
 
+########
+
