@@ -2,7 +2,7 @@
 
 Scripts referring to data analysis of my thesis, entitled "INTEGRATION OF MOLECULAR AND CHEMICAL DATA FOR ANALYSIS OF BIOSYNTHESIS AND ALKALOIDS FLOW IN Erythrina velutina Willd.", subdivided into four chapters.
 
-#Chapter 1
+#Chapter 1 
 
 - Title: Non-target molecular network and putative genes of flavonoid biosynthesis in Erythrina velutina Willd., a Brazilian semiarid native woody plant
 - Publication: Frontiers in Plant Science - 08 September 2022
