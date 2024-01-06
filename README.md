@@ -4,6 +4,7 @@ Scripts referring to data analysis of my thesis, entitled "INTEGRATION OF MOLECU
 
 #Chapter 1 
 
+
 - Title: Non-target molecular network and putative genes of flavonoid biosynthesis in Erythrina velutina Willd., a Brazilian semiarid native woody plant
 - Publication: Frontiers in Plant Science - 08 September 2022
 - Doi: https://doi.org/10.3389/fpls.2022.947558
