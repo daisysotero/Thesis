@@ -12,7 +12,7 @@ import os
 # In[ ]:
 
 
-arq1=r'E:\Doc\Cap 3 - GR_Evelu\Resultados_PCRs\Serrapilheira\housekeeping_salvo_no_area_trabalho\Figuras\scatter_pairwise_normfinder_serrapilheira.xlsx'
+arq1=r'..\scatter_pairwise_normfinder_serrapilheira.xlsx'
 df1 = pd.read_excel(arq1)
 
 
