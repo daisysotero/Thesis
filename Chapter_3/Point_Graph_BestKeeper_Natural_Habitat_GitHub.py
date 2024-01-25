@@ -12,7 +12,7 @@ import os
 # In[ ]:
 
 
-arq1=r'E:\Doc\Cap 3 - GR_Evelu\Resultados_PCRs\Serrapilheira\housekeeping_salvo_no_area_trabalho\Figuras\grapico2.xlsx'
+arq1=r'..\grapico2.xlsx'
 df1 = pd.read_excel(arq1)
 print(df1)
 
