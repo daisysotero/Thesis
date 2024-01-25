@@ -9,6 +9,7 @@ library(dplyr)
 #normqPCR directory: "C:/Users/daisy/AppData/Local/R/win-library/4.2/NormqPCR/exData"
 #Realized two analyses: leaves vs. seeds ("dataset_geNorm.txt") and Acari vs. JS ("geNorm2.txt")
 
+######### Treatments ############
 path <- system.file("exData", package = "NormqPCR")
 dir()
 qPCR.example.techReps <- file.path(path, "geNorm1_all.txt")
@@ -27,13 +28,8 @@ sampleNames(combinedTechReps)
 
 
 #To calculate the value of the stability M:
-#To say which the tissue and quantitative of the replicates
-#Seeds+Leaves = 12 pools (replicates)
-#Seeds (p1,p2,p3,p4,p5,p6) + leaves (p7,p8,p9,p10,p11,p12)
+tissue <- as.factor(c(rep("CT4", 3), rep("MJ", 3),rep("SNP",3)))
 
-tissue <- as.factor(c(rep("CT4", 4), rep("MJ", 4),rep("SNP",4)))
-
-#Value of the stability M: 
 res.p1 <- selectHKs(combinedTechReps[,tissue == "CT4"], method = "geNorm",
                     Symbols = featureNames(combinedTechReps),
                     minNrHKs = 2, trace = F, log = FALSE)
@@ -46,7 +42,7 @@ res.p3 <- selectHKs(combinedTechReps[,tissue == "SNP"], method = "geNorm",
                     Symbols = featureNames(combinedTechReps),
                     minNrHKs = 2, trace = F, log = FALSE)
 
-###SERRAPILHEIRA ############
+######### Natural habitat ############
 path <- system.file("exData", package = "NormqPCR")
 qPCR.example.techReps <- file.path(path, "geNorm2_all.txt")
 qPCRBatch.qPCR.techReps <- read.qPCR(qPCR.example.techReps)
@@ -86,6 +82,7 @@ ranks <- data.frame(c(1, 1:10), res.p1$ranking, res.p2$ranking,res.p3$ranking,
                     res.SJ$ranking,
                     res.LA$ranking,
                     res.LJ$ranking)
+
 names(ranks) <- c("rank","CT4","MJ","SNP", "SA", "SJ","LA","LJ")
 ranks
 
