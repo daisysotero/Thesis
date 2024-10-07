@@ -1,2 +1,10 @@
+This directory contains files of the assembled transcriptome.
 
-aa
+Files (items 1-6):
+1. Transcript_17KEvelu.fasta = Assembly made with leaves and seeds together.
+2. Partial assemblies_leaves_39KEvelu.fasta = Assembly performed only on leaves
+3. Partial assemblies_seed_30KEvelu.fasta = Assembly performed only on seeds
+4. Transcript_translated_annotated = Transcripts translated in transdecoder
+5. Id_Evelu-seed-only_363.tsv = Transcript IDs identified only in seeds
+6. Id_Evelu-leaf-only_1186.tsv = Transcript IDs identified only in leaves
+Obs. All other IDs that are not in the files above (items 5 and 6) were identified in both leaves and seeds.
