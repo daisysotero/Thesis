@@ -3,6 +3,7 @@
 
 # In[ ]:
 
+###############################  IMPORTS #####################################
 
 import pandas as pd
 import numpy as np
@@ -28,7 +29,7 @@ from scipy import stats
 plt.rc('font',**{'family':'sans-serif','sans-serif':['Helvetica-Normal']})
 
 
-# In[ ]:
+###############################  FUNCTION #####################################
 
 
 def function_fig_chromatogram_v2(plots_em_x, plots_em_y, h_size, v_size, 
@@ -161,7 +162,8 @@ def function_fig_chromatogram_v2(plots_em_x, plots_em_y, h_size, v_size,
     return None
 
 
-# In[ ]:
+###############################  PLOT #####################################
+###############################  EXEMPLE: TEMPERATURE #####################################
 
 
 
@@ -322,6 +324,9 @@ caminho = r'E:\Doc\Cap 2 - Tratadas_HPLC_Evelu\Analise_HPLC\RESULTADOS_PROCESSAD
 file    = r'\f2_norm_final'
 formats = ['.pdf','.jpg','.tiff']
 flag2=True
+
+###############################  PLOT USING THE FUNCTION #####################################
+
 function_fig_chromatogram_v2(plots_em_x, plots_em_y, h_size, v_size,
                           tempo, lista_plots, lista_label, lista_cores, linhas_por_painel,
                           alpha, lw, xlim_max, xlim_min, xticks, xticks_label, yticks, yticks_label, ylabel, xlabel, dpi,
