@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+###############################  IMPORTS #####################################
 
 
 import pandas as pd
@@ -28,7 +28,7 @@ from scipy import stats
 plt.rc('font',**{'family':'sans-serif','sans-serif':['Helvetica-Normal']})
 
 
-# In[ ]:
+###############################  FUNCTION #####################################
 
 
 def media_repbiologicas(dados):
