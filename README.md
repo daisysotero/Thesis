@@ -1,15 +1,30 @@
 # Thesis
 
-Scripts referring to data analysis of my thesis, entitled "INTEGRATION OF MOLECULAR AND CHEMICAL DATA FOR ANALYSIS OF BIOSYNTHESIS AND ALKALOIDS FLOW IN Erythrina velutina Willd.", subdivided into four chapters.
+Scripts referring to data analysis of my thesis, entitled "INTEGRATION OF MOLECULAR AND CHEMICAL DATA FOR ANALYSIS OF BIOSYNTHESIS AND ALKALOIDS FLOW IN Erythrina velutina Willd.", subdivided in chapters.
 
 #Chapter 1 
 
 - Title: Non-target molecular network and putative genes of flavonoid biosynthesis in Erythrina velutina Willd., a Brazilian semiarid native woody plant
-- Publication: Frontiers in Plant Science - 08 September 2022
+- Publication: Frontiers in Plant Science
 - Doi: https://doi.org/10.3389/fpls.2022.947558
 - Abstract: Erythrina velutina is a Brazilian native tree of the Caatinga (a unique semiarid biome). It is widely used in traditional medicine showing anti-inflammatory and central nervous system modulating activities. The species is a rich source of specialized metabolites, mostly alkaloids and flavonoids. To date, genomic information, biosynthesis, and regulation of flavonoids remain unknown in this woody plant. As part of a larger ongoing research goal to better understand specialized metabolism in plants inhabiting the harsh conditions of the Caatinga, the present study focused on this important class of bioactive phenolics. Leaves and seeds of plants growing in their natural habitat had their metabolic and proteomic profiles analyzed and integrated with transcriptome data. As a result, 96 metabolites (including 43 flavonoids) were annotated. Transcripts of the flavonoid pathway totaled 27, of which EvCHI, EvCHR, EvCHS, EvCYP75A and EvCYP75B1 were identified as putative main targets for modulating the accumulation of these metabolites. The highest correspondence of mRNA vs. protein was observed in the differentially expressed transcripts. In addition, 394 candidate transcripts encoding for transcription factors distributed among the bHLH, ERF, and MYB families were annotated. Based on interaction network analyses, several putative genes of the flavonoid pathway and transcription factors were related, particularly TFs of the MYB family. Expression patterns of transcripts involved in flavonoid biosynthesis and those involved in responses to biotic and abiotic stresses were discussed in detail. Overall, these findings provide the basis for the understanding of molecular and metabolic responses in this medicinally important species. Moreover, the identification of key regulatory targets for future studies aiming at bioactive metabolite production will be facilitated.
 - Citation: BibTex, TXT and PDF file attached (Chapter_1 directory)
 
-#Chapter 2: In progress...
+#Chapter 2
 
-#Chapter 3: In progress... 
+Title = Environmental and phytohormone modulation of organ-specific specialized metabolite profiles in the dryland tree Erythrina velutina
+Publication = Plant Biology
+Doi = https://doi.org/10.1111/plb.70104
+Abstract = Erythrina velutina is a tree that thrives in the shallow rocky soils of the dry and hot Caatinga, a unique Brazilian biome. It is rich in specialized metabolites with medicinal properties. Indeed, alkaloids and flavonoids are phytochemical markers of the genus. Our previous studies identified key biochemical and molecular targets in biosynthesis of these metabolites in E. velutina, including phytohormone signalling pathways and responses to environmental stressors. However, the role of these signalling molecules and external factors in modulating the tree natural product (NP) profiles remains unexplored. In this study, seedlings of E. velutina were subjected to environmental stress (heat, ultraviolet radiation, drought, salinity, mechanical damage) and phytohormone exposure (methyl jasmonate, salicylic acid, nitric oxide, abscisic acid). Leaves and roots were collected after 2 and 4 days of treatment for HPLC-DAD and chemometric analyses. The most prominent factors that increased accumulation of major metabolites were nitric oxide, drought, heat, ultraviolet radiation, and methyl jasmonate. The analyses revealed both organ- and temporal-specific metabolite profiles, as well as some typically shared features. Both phytoanticipin and phytoalexin-like metabolite profiles were recorded, with prevalence of the former. The results shed light on how the above factors affect metabolic tuning in E. velutina. Moreover, the generated datasets will be useful in selecting individual compounds for detailed functional investigation, as well as for directing chemical profiles towards known and novel metabolites of interest in this species
+
+
+#Chapter 3
+
+Title = Transcriptome-guided selection of reference genes from field-grown adult trees and seedlings exposed to defense phytohormones in Erythrina velutina
+Publication = Plant Gene
+Doi = https://doi.org/10.1016/j.plgene.2025.100496
+Abstract = Erythrina velutina Willd (Fabaceae) is an important non-model tree with pharmaceutical potential, traditionally used in folk medicine at the northeastern Brazilian semiarid region. The species shows anti-inflammatory properties and central nervous system modulation. Our previous work highlighted its capacity of biosynthesizing several bioactive compounds. It was also possible to identify enzyme and transcription factor genes involved in the response to both biotic and abiotic stresses. However, the identification of reference genes (RGs) for real-time quantitative polymerase chain reaction (RT-qPCR) assays and validation of molecular mechanisms is still lacking. Leaves and seeds of field-grown plants and shoots of seedlings exposed to defense phytohormones (sodium nitroprusside and methyl jasmonate, the former as source of nitric oxide) were examined. As a result, 60 transcripts had RPKM (log2) > 2 and CV < 10 %, from which the 11 most conserved were selected: NADH, 26S, UPF, PBL27, CYB5, ARP4, ARD2, OAT, CSTF64, NLE, and RAB7. CSTF64, RAB7, NLE, UPF and ARP4 exhibited the highest stability and showed positive, and significant correlations, while NADH and PBL27 were the least stable genes. The use of two genes was sufficient for normalizing qPCR assays, and the best gene pairs were recommended. All reference genes were validated with target genes, sequenced, and showed adequate melting curves and amplification efficiency. This pioneering identification of reference genes in Erythrina velutina provides a platform for future molecular studies in this unique dryland species. The herein described approach can also be useful in identifying adequate housekeeping genes in other non-model plant species
+
+#Chapter 4
+
+In progress...
